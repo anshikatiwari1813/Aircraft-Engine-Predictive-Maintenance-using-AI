@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+
+# Temporary files
+*.tmp
+
+# Large datasets
+dataset/raw/
+
+# Model checkpoints
+*.h5
+*.keras
