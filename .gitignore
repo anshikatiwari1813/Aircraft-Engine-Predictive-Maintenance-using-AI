@@ -21,3 +21,5 @@ dataset/raw/
 *.keras
 
 *.log
+
+models/random_forest_model.pkl
