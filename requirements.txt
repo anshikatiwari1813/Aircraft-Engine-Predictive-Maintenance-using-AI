@@ -10,3 +10,4 @@ shap
 joblib
 openpyxl
 tensorflow==2.15.0
+reportlab
