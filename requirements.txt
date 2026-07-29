@@ -1,12 +1,34 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-plotly
-matplotlib
-seaborn
-shap
-tensorflow
-joblib
-openpyxl
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Raw dataset
+dataset/raw/
+
+# Logs
+*.log
+
+# Large unused model
+models/random_forest_model.pkl
+
+tensorflow==2.15.0
