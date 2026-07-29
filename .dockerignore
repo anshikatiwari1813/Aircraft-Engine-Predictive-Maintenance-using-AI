@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.git/
+.gitignore
+
+*.pyc
+*.pyo
+
+dataset/raw/
+
+outputs/
+
+reports/
+
+prediction_history.db
